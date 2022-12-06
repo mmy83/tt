@@ -1,0 +1,15 @@
+{
+    "name": "mmy83/tt",
+    "autoload": {
+        "psr-4": {
+            "Mmy83\\Tt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmy83",
+            "email": "mmy83@126.com"
+        }
+    ],
+    "require": {}
+}
