@@ -11,5 +11,7 @@
             "email": "mmy83@126.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tymon/jwt-auth":"^1.0"
+    }
 }
